@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 22305c7ec9fd62d43ae7190d70fddcc0
+timeCreated: 1442231670
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 47052
+  packageName: Shattering
+  packageVersion: 1.1.1
+  assetPath: Assets/Shattering/Editor/EclatsEditor.cs
+  uploadId: 606543

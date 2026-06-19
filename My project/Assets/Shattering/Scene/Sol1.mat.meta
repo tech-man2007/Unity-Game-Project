@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 0709e7e0c7aae364b845bb1fc70dc5bb
+timeCreated: 1435399981
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 47052
+  packageName: Shattering
+  packageVersion: 1.1.1
+  assetPath: Assets/Shattering/Scene/Sol1.mat
+  uploadId: 606543

@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 2a96d1f5ca931f44db5269da4272ab04
+timeCreated: 1443018969
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 47052
+  packageName: Shattering
+  packageVersion: 1.1.1
+  assetPath: Assets/Shattering/Shattering.cs
+  uploadId: 606543

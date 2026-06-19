@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: b0a0d09faed2b47f19e4898e5d0983e6
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 47052
+  packageName: Shattering
+  packageVersion: 1.1.1
+  assetPath: Assets/Shattering/Scene/UnityChan/Scripts/SceneLoader.cs
+  uploadId: 606543

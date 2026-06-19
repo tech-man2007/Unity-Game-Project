@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: fe01eae1ec1d1c24b99530833c8c8241
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 47052
+  packageName: Shattering
+  packageVersion: 1.1.1
+  assetPath: Assets/Shattering/Scene/UnityChan/Models/UnityChanShader/Shader/CharaSkin.cg
+  uploadId: 606543

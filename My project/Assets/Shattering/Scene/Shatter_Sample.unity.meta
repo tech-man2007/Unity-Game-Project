@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 17b1e02fcf90ef345ab77fc88884124e
+timeCreated: 1443520846
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 47052
+  packageName: Shattering
+  packageVersion: 1.1.1
+  assetPath: Assets/Shattering/Scene/Shatter_Sample.unity
+  uploadId: 606543

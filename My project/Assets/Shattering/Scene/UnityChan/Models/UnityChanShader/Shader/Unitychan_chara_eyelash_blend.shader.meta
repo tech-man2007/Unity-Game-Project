@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 9627902a73805264c818754ecb22c8f9
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 47052
+  packageName: Shattering
+  packageVersion: 1.1.1
+  assetPath: Assets/Shattering/Scene/UnityChan/Models/UnityChanShader/Shader/Unitychan_chara_eyelash_blend.shader
+  uploadId: 606543

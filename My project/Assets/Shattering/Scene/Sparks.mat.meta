@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 9b0d5275895b10343ad5e807d994f737
+timeCreated: 1443528873
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 47052
+  packageName: Shattering
+  packageVersion: 1.1.1
+  assetPath: Assets/Shattering/Scene/Sparks.mat
+  uploadId: 606543

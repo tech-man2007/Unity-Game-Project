@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 05300f3220a67914cb5461760df4d747
+timeCreated: 1441356254
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 47052
+  packageName: Shattering
+  packageVersion: 1.1.1
+  assetPath: Assets/Shattering/Resources/PhysXMesh.prefab
+  uploadId: 606543

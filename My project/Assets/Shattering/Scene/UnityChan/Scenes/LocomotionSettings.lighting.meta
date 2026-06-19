@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f479ccca5dad7c0468d5a5023ec42d11
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 4890085278179872738
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 47052
+  packageName: Shattering
+  packageVersion: 1.1.1
+  assetPath: Assets/Shattering/Scene/UnityChan/Scenes/LocomotionSettings.lighting
+  uploadId: 606543

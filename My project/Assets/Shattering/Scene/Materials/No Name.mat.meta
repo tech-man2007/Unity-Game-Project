@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 02bb37a138f7ae143b685d5a6ea97109
+timeCreated: 1464204104
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 47052
+  packageName: Shattering
+  packageVersion: 1.1.1
+  assetPath: Assets/Shattering/Scene/Materials/No Name.mat
+  uploadId: 606543

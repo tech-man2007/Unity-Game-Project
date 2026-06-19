@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e6b6c40d35790dd4b9bbeb237f2063c5
+timeCreated: 1443387497
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 47052
+  packageName: Shattering
+  packageVersion: 1.1.1
+  assetPath: Assets/Shattering/Scene/UnityChan/Amimators/UnityChanDemoShatter.controller
+  uploadId: 606543

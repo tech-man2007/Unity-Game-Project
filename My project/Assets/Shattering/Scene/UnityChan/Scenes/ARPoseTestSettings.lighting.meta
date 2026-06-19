@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 082b9451b00d3f94a9c0a5942fdfd0e7
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 4890085278179872738
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 47052
+  packageName: Shattering
+  packageVersion: 1.1.1
+  assetPath: Assets/Shattering/Scene/UnityChan/Scenes/ARPoseTestSettings.lighting
+  uploadId: 606543

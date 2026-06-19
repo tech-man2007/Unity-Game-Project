@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b6242453d65a25f4fb7b87de6f1e9d86
+timeCreated: 1442861250
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 47052
+  packageName: Shattering
+  packageVersion: 1.1.1
+  assetPath: Assets/Shattering/Scene/camTestEclat.anim
+  uploadId: 606543

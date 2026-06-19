@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8f761d6360b9da741a5368ff417f6a9e
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 4890085278179872738
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 47052
+  packageName: Shattering
+  packageVersion: 1.1.1
+  assetPath: Assets/Shattering/Scene/Shatter_SampleSettings.lighting
+  uploadId: 606543

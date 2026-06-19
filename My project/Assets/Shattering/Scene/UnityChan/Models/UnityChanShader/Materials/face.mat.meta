@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: cb35fb92776d24a65827b1d3ab18fe60
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 47052
+  packageName: Shattering
+  packageVersion: 1.1.1
+  assetPath: Assets/Shattering/Scene/UnityChan/Models/UnityChanShader/Materials/face.mat
+  uploadId: 606543

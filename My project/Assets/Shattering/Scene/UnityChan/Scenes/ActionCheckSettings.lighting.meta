@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 6df906540d438444da84a4cee167f9c7
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 4890085278179872738
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 47052
+  packageName: Shattering
+  packageVersion: 1.1.1
+  assetPath: Assets/Shattering/Scene/UnityChan/Scenes/ActionCheckSettings.lighting
+  uploadId: 606543

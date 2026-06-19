@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 8d5a0e0d58f4e4176a844a1a03976c19
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 47052
+  packageName: Shattering
+  packageVersion: 1.1.1
+  assetPath: Assets/Shattering/Scene/UnityChan/Amimators/UnityChanLocomotions.controller
+  uploadId: 606543

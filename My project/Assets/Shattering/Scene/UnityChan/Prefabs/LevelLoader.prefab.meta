@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: cd7e5cc2b3a974d4f830ea9d14a6383b
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 47052
+  packageName: Shattering
+  packageVersion: 1.1.1
+  assetPath: Assets/Shattering/Scene/UnityChan/Prefabs/LevelLoader.prefab
+  uploadId: 606543

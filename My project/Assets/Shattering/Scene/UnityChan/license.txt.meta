@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 32e2bf19093c19845a92965784d5a86f
+timeCreated: 1443527481
+licenseType: Store
+TextScriptImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 47052
+  packageName: Shattering
+  packageVersion: 1.1.1
+  assetPath: Assets/Shattering/Scene/UnityChan/license.txt
+  uploadId: 606543
